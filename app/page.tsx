@@ -7,7 +7,7 @@ export default function Page() {
         About Me
       </h1>
       <div className="mb-4">
-        <img src="app/imgs/DollengoStudios.png" alt="dollengo-studios-logo" className="w-full h-auto" />
+        <img src="imgs/DollengoStudios.png" alt="dollengo-studios-logo" className="w-full h-auto" />
       </div>
       <p className="mb-4">
         {`My name is Tarcísio Nascimento Silva. I was born in a city in the countryside of Sergipe/Brazil. I started with programming at 2018, with RPG maker, this game engine doesn't exist literally codes, but exists logic. But I start with literally coding at end of 2023, with Python. I actually learning C++ for create game engines and more. I know: 'C++, Python, HTML5, JavaScript, CSS and Java'
