@@ -6,6 +6,9 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         About Me
       </h1>
+      <div className="mb-4">
+        <img src="app/imgs/DollengoStudios.png" alt="dollengo-studios-logo" className="w-full h-auto" />
+      </div>
       <p className="mb-4">
         {`# About Me:
         
