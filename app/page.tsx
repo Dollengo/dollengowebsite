@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <div className="mb-4">
-        <img src="imgs/DollengoStudios.png" alt="dollengo-studios-logo" className="w-full h-auto" />
+        <img src="app/imgs/DollengoStudios.png" alt="DollengoStudios.png" className="w-auto h-auto" />
       </div>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         About Me
