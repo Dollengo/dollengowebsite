@@ -20,9 +20,6 @@ export default function Page() {
         {`The name "Dollengo" was born in 2022. With my science teacher giving me an activity in class. This activity was for me to create a medicine. The medicine's slogan, in Portuguese makes more sense, is: "Dollengo, faz você cag4r molengo", translating... = "Dollengo, make you shit soft".I was thinking of something to rhyme with "molengo", so I thought Dollengo. So when I went to create a name in the game Fortnite, I thought. Dollengo. So that name became my nickname.
 `}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
