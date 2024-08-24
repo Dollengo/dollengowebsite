@@ -3,9 +3,6 @@ import { BlogPosts } from 'app/components/posts'
 export default function Page() {
   return (
     <section>
-      <div className="mb-4">
-        <img src="imgs/DollengoStudios.png" alt="DollengoStudios.png" className="w-full h-full" />
-      </div>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         About Me
       </h1>
