@@ -1,6 +1,6 @@
 import { getBlogPosts } from 'app/blog/utils'
 
-export const baseUrl = 'https://dollengostudios.vercel.app'
+export const baseUrl = 'https://dollengo.vercel.app'
 
 export default async function sitemap() {
   let blogs = getBlogPosts().map((post) => ({
